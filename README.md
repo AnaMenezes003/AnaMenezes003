@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AnaMenezes003/AnaMenezes003/main/hello.jpg"
+<img src="https://raw.githubusercontent.com/AnaMenezes003/AnaMenezes003/main/loloca.jpg"
 width="850"
 height="200"
 alt="Ana Paula"/>
