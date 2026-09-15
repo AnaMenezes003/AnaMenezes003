@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AnaMenezes003/AnaMenezes003/main/banner.jpg"
 width="850"
+height="200"
 alt="Ana Paula"/>
 
 <br><br>
