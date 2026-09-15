@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AnaMenezes003/AnaMenezes003/main/hello.jpg"
 width="850"
-height="450"
+height="195"
 alt="Ana Paula"/>
 
 <br><br>
