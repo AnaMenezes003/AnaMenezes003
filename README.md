@@ -57,11 +57,11 @@ alt="Typing SVG"/>
 
 <td width="72%" valign="top">
 
-<h2>Olá! Eu sou a Ana Paula 👋</h2>
+<h2>Olá! Eu sou a Ana Paula 🌙</h2>
 
 <p>
 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>,
-aprendendo programação e desenvolvimento de software.
+fazendo projetos de desenvolvimento de software.
 </p>
 
 <br>
@@ -69,11 +69,11 @@ aprendendo programação e desenvolvimento de software.
 <h3>◆ CURRENTLY</h3>
 
 <p>
-▸ Estudando Java<br>
-▸ Melhorando Python<br>
+▸ Programando em Java<br>
+▸ Programando em Python<br>
 ▸ Criando projetos web<br>
 ▸ Aprendendo cibersegurança<br>
-▸ Evoluindo como desenvolvedora
+▸ Evoluindo como desenvolvedora<br>
 </p>
 
 <br>
