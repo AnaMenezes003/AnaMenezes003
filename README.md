@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AnaMenezes003/AnaMenezes003/main/banner.jpg"
+<img src="https://raw.githubusercontent.com/AnaMenezes003/AnaMenezes003/main/code.jpg"
 width="850"
-height="200"
+height="400"
 alt="Ana Paula"/>
 
 <br><br>
